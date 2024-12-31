@@ -42,3 +42,4 @@
     main.py
     README.md
     requirements.txt
+    commands.md
