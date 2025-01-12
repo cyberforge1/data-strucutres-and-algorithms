@@ -46,3 +46,4 @@ class Queue:
         if self.is_empty():
             raise IndexError("Queue is empty")
         return self.data[self.head]
+
